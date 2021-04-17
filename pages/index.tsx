@@ -3,7 +3,7 @@ import Button from '../components/Button';
 export default function Home() {
   return (
     <div>
-      <Button />
+      <Button text='Example Button' />
     </div>
   );
 }
